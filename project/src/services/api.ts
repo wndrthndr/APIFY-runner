@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://apify-runner.onrender.com/';
+const API_BASE_URL = 'https://apify-runner.onrender.com/api';
 
 export class ApiService {
   private apiKey: string;
